@@ -1,0 +1,13 @@
+C:\RepositorioGit\tpn9-miguelgmzjr\TPN9\TP9\bin\Debug\netcoreapp3.1\TP9.exe
+C:\RepositorioGit\tpn9-miguelgmzjr\TPN9\TP9\bin\Debug\netcoreapp3.1\TP9.deps.json
+C:\RepositorioGit\tpn9-miguelgmzjr\TPN9\TP9\bin\Debug\netcoreapp3.1\TP9.runtimeconfig.json
+C:\RepositorioGit\tpn9-miguelgmzjr\TPN9\TP9\bin\Debug\netcoreapp3.1\TP9.runtimeconfig.dev.json
+C:\RepositorioGit\tpn9-miguelgmzjr\TPN9\TP9\bin\Debug\netcoreapp3.1\TP9.dll
+C:\RepositorioGit\tpn9-miguelgmzjr\TPN9\TP9\bin\Debug\netcoreapp3.1\TP9.pdb
+C:\RepositorioGit\tpn9-miguelgmzjr\TPN9\TP9\obj\Debug\netcoreapp3.1\TP9.csprojAssemblyReference.cache
+C:\RepositorioGit\tpn9-miguelgmzjr\TPN9\TP9\obj\Debug\netcoreapp3.1\TP9.AssemblyInfoInputs.cache
+C:\RepositorioGit\tpn9-miguelgmzjr\TPN9\TP9\obj\Debug\netcoreapp3.1\TP9.AssemblyInfo.cs
+C:\RepositorioGit\tpn9-miguelgmzjr\TPN9\TP9\obj\Debug\netcoreapp3.1\TP9.csproj.CoreCompileInputs.cache
+C:\RepositorioGit\tpn9-miguelgmzjr\TPN9\TP9\obj\Debug\netcoreapp3.1\TP9.dll
+C:\RepositorioGit\tpn9-miguelgmzjr\TPN9\TP9\obj\Debug\netcoreapp3.1\TP9.pdb
+C:\RepositorioGit\tpn9-miguelgmzjr\TPN9\TP9\obj\Debug\netcoreapp3.1\TP9.genruntimeconfig.cache
